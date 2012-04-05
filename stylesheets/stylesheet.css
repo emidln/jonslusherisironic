@@ -235,9 +235,10 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: 0px solid #373737;
+  margin-top: 0px;
   margin-bottom: 20px;
-  text-align: left;
+  text-align: top;
  }
 
 th {
@@ -272,7 +273,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 800px;
   padding: 20px 10px;
   margin: 0 auto;
 }
